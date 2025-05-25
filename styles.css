@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.slide-container{
+	display:flex;
+	justify-content:space-between;
+}
+.left-slide{
+	width:50%;
+}
+.right-slide{
+	width: 50%;
+}
+button{
+	margin-top: 20px;
+}
